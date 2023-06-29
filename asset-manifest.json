@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.547a3114.css",
+    "main.js": "/static/js/main.5fe2373b.js",
+    "static/media/movieBr.PNG": "/static/media/movieBr.67ac7f2dcbf769a91e8b.PNG",
+    "static/media/pictt.png": "/static/media/pictt.a901dc22e7242a4f84b5.png",
+    "static/media/theClock.PNG": "/static/media/theClock.8e3897929437988fe916.PNG",
+    "static/media/ToDo.PNG": "/static/media/ToDo.33c64729be38a99d65ee.PNG",
+    "static/media/plateforme.png": "/static/media/plateforme.b0ce96557ec6efba99db.png",
+    "static/media/download.svg": "/static/media/download.bcb4d23d8431c3ddb48e83c365610b9c.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.5a3a9ca294db0539884810b6e6eafedd.svg",
+    "static/media/python.svg": "/static/media/python.6a8b2999db46fb931134216e8fdfdb2c.svg",
+    "static/media/devina.svg": "/static/media/devina.4d92d4df4285d764623b017500a86bff.svg",
+    "static/media/django.svg": "/static/media/django.c340192e9b922803496727865292d17f.svg",
+    "index.html": "/index.html",
+    "main.547a3114.css.map": "/static/css/main.547a3114.css.map",
+    "main.5fe2373b.js.map": "/static/js/main.5fe2373b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.547a3114.css",
+    "static/js/main.5fe2373b.js"
+  ]
+}

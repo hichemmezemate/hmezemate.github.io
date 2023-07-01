@@ -527,11 +527,11 @@ ul {
 
 
     .Card1 {
-        position: absolute;
+        position: relative;
         margin: 0vh ;
         left: 2vw;
         top: 15vh;
-        height: 84vh;
+        height: fit-content;
         width: 96vw;
         /* background-color: #cb4040; */
     }
@@ -545,26 +545,26 @@ ul {
     }
     
     .Card2 {
-        position: absolute;
+        position: relative;
         border-radius: 50px;
         left: 4vw;
-        top: 102vh;
+        top: 20vh;
         background-color: #ffffff;
         z-index: 1000;
-        height: 72vh;
-        margin-bottom: 10vh;
+        height: 70vh;
+ 
         width: 92%;
     }
 
     .box2 {
-        height: 100%;
+        position: relative;
         width: 100%;
         margin-bottom: 5vh;
+        font-size: 4vh;
     }
 
     .box2 p {
         top: 0vh;
-        font-size: 3vh;
         padding: 5vh;
     }
 
@@ -639,14 +639,14 @@ ul {
 
     .wrapper2 {
         left: 0;
-        top: 10vh;
+        top: 14vh;
         height: 140vh;
         width: 100vw;
         height: fit-content;
         display: grid;
-        grid-template-columns: repeat(1, auto);
-        grid-template-rows: repeat(4, auto);
-        grid-gap: 3vh;
+        grid-template-columns: repeat(2, auto);
+        grid-template-rows: repeat(2, auto);
+        grid-gap: 1vh;
     }
 
     .btn {
@@ -659,9 +659,13 @@ ul {
     }
 
     .ContCard {
-        width: 50vw;
-        height: 30vh;
-        margin: 4vh;
+        width: 40vw;
+        height: 20vh;
+        margin: 0vh;
+    }
+
+    .iconN {
+        font-size: 12vh;
     }
 
     .ContCard h1 {
